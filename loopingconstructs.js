@@ -7,7 +7,7 @@ var i = 1;
 while (i < 10)
 {
     console.log(i); //print so to the console
-    i = i + 1; //increment
+    i++; //increment
 }
 
 
